@@ -1,0 +1,26 @@
+## SOFTWARE PROJECT PROPOSAL
+## PROJECT NAME: VOICEVIET
+## GROUP 24: Nguyen Duc Dung ( BI9.073 ); Do Duc Manh ( BI9.163 ); Tran Xuan Dau ( BI9.029 );Bui Quoc Trung (BI9.153)
+
+## 1. Project Introduction
+In the days of technology 4.0, every technology has became very smart and modern with many usefull ability, one of those is smart control systems using human voice. It becomes very convenient using only voices and no need to press any buttons which takes us a lot of time. And of course, your systems will also need a voice to communicate with you. As you can see, systems using VietNamese voice is not much, one of the reasons is that the database of Voices in VietNamese is still in deprivation. Our apps provide a database of Voices in VietNamese and it open free, so anyone can get the data(the voice) they want.
+
+## 2. Objectives
+-Developers or anyone else can get in to the database to get the data(the voice in VietNameese) they want to develope their programme or to do anything they want. Example: Imagine you will create a programme like Seri on Iphone, but you make Seri communicate with you not in English, but in VietNamese.
+-This app is the place where anyone in Viet Nam can come and donate their voice to the VietNamese Voice Database.
+
+## 3. Target Audience:
+-Developers, technology companies or anyone who need to use VietNamese voice to develope their programme.
+-Anyone who talk in VietNamese who want to donate their voice to the Database.
+
+## 4. Brief descriptions:
+a, Main way of working:
+-Record the voice of the users(the users read a part of documents that the app prepared).
+-Users can hear others recorded voice of previous users so they can compare the quality of their record.
+-Users can hear again their own voice but they will judge the record themself, if they still dont happy with their record they can record again and update to the Database.
+*Note: -In the Function number 1, every users can use it.
+       -In the Function number 2 and 3, users have to sign in the use.
+b, Main reason why to use this app:
+-This is an open Database, which mean its free for anyone to access.
+-Nowdays alot of systems need to use voices.
+-VietNamese voice Database is in deprivation and also the price is high, this is a platform for people to donate their voice in order to make VietNamese voice Database become more complete.
